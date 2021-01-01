@@ -4,6 +4,6 @@
 	<title>Users</title>
 </head>
 <body>
-	<p>User List</p>
+	<p>User List Table</p>
 </body>
 </html>
